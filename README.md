@@ -1,10 +1,20 @@
 # Land Sector Management and Exploratory Data Analysis (EDA) Project
 
+## Table of Content
+  * [Overview](#overview)
+  * [Installation](#installation)
+  * [Technologies Used](#technologies-used)
+  * [Team](#team)
+
+# Overview 
+Automatic License Plate Recognition (ALPR), As the name suggests, is a technology that uses the power of AI and deep learning to automatically detect and recognize the characters of a vehicle's license plate.
+![Untitled](https://www.google.com/imgres?imgurl=https%3A%2F%2Fslideplayer.com%2F13691892%2F84%2Fimages%2Fslide_1.jpg&tbnid=V39VARftCUcd1M&vet=12ahUKEwjM-v-o5fCBAxV1pkwKHX9NA3oQMygKegQIARBa..i&imgrefurl=https%3A%2F%2Fslideplayer.com%2Fslide%2F13691892%2F&docid=ifq6ckMfrkbf0M&w=1024&h=768&q=SOUTH%20AFRICAN%20ENVIRONMENTAL%20sdg&ved=2ahUKEwjM-v-o5fCBAxV1pkwKHX9NA3oQMygKegQIARBa)
 🌍 Welcome to the Land Sector Management and Exploratory Data Analysis (EDA) project repository! This project aims to bring together datasets relevant to land sector management in South Africa. In this README file, we will provide you with essential information about the project, the software tools used, and their respective links.
 
 ## Project Overview
 
 📋 The Land sector dataset repository is dedicated to aggregating datasets that can be valuable for land sector management in South Africa. These datasets will be used for exploratory data analysis (EDA) to gain insights and inform decision-making in the land sector.
+
 
 ## Project Details
 
@@ -18,7 +28,16 @@ To get started with this project, follow these steps:
 
 4. **Data Analysis**: 📊 In your Jupyter Notebook, utilize Python and Anaconda (and any other necessary software) to perform data analysis. You should use graphs, plots, dataframes, and other visualization techniques to interpret the data and present your findings effectively.
 
-## Software Used
+# Software Used
+
+The Code is written in Python 3.10
+To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
+```bash
+pip install lmageAI
+```
+```python
+pip install lmageAI
+```
 
 For this project, you will need the following software tools:
 
@@ -54,18 +73,20 @@ Depending on the specific requirements of your analysis, you may consider using 
 
    - [Seaborn Documentation](https://seaborn.pydata.org/)
 
-## Contribution
+# Team
+## Contributors
 
-Once you have completed your analysis in the Jupyter Notebook, follow these steps to contribute to the project:
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
-1. **Commit and Push**: 📦 Commit your work to your project repository and push the changes to your remote repository on platforms like GitHub, GitLab, or Bitbucket.
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
-2. **Raise a Pull Request**: 📥 Create a pull request from your branch to the main project repository branch. Provide a clear description of your work and any relevant findings.
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
-3. **Record Contribution**: 📝 Make sure to record your contribution details in the project documentation or README.
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-4. **Share Link**: 🔗 Share the link to your pull request in the #outreachy channel of the Slack community for project coordination and review.
-
-## Copyright Notice
-
-📄 This project is subject to the copyright notice of the contributing individuals and organizations. Please respect the intellectual property rights associated with the datasets and code used in this project.
+[Marble Kusanele Mpofu](https://github.com/kusanele/)
