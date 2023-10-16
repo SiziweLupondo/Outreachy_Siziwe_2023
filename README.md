@@ -7,14 +7,7 @@
   * [Team](#team)
 
 # Overview 
-Automatic License Plate Recognition (ALPR), As the name suggests, is a technology that uses the power of AI and deep learning to automatically detect and recognize the characters of a vehicle's license plate.
-![Untitled](https://www.google.com/imgres?imgurl=https%3A%2F%2Fslideplayer.com%2F13691892%2F84%2Fimages%2Fslide_1.jpg&tbnid=V39VARftCUcd1M&vet=12ahUKEwjM-v-o5fCBAxV1pkwKHX9NA3oQMygKegQIARBa..i&imgrefurl=https%3A%2F%2Fslideplayer.com%2Fslide%2F13691892%2F&docid=ifq6ckMfrkbf0M&w=1024&h=768&q=SOUTH%20AFRICAN%20ENVIRONMENTAL%20sdg&ved=2ahUKEwjM-v-o5fCBAxV1pkwKHX9NA3oQMygKegQIARBa)
-🌍 Welcome to the Land Sector Management and Exploratory Data Analysis (EDA) project repository! This project aims to bring together datasets relevant to land sector management in South Africa. In this README file, we will provide you with essential information about the project, the software tools used, and their respective links.
-
-## Project Overview
-
-📋 The Land sector dataset repository is dedicated to aggregating datasets that can be valuable for land sector management in South Africa. These datasets will be used for exploratory data analysis (EDA) to gain insights and inform decision-making in the land sector.
-
+ The primary objective of this research is to comprehensively assess South Africa's progress toward the SDGs. We aim to quantify and qualify advancements made in areas such as poverty reduction, education, healthcare, and environmental sustainability. Through data analytics, we will examine trends, gaps, and variations in performance at both the national and regional levels.
 
 ## Project Details
 
@@ -73,7 +66,6 @@ Depending on the specific requirements of your analysis, you may consider using 
 
    - [Seaborn Documentation](https://seaborn.pydata.org/)
 
-# Team
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
